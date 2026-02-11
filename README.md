@@ -35,10 +35,3 @@ java NumberGuessingGame
 
 This project demonstrates basic programming concepts such as loops, conditionals, and random number generation in Java.
 
-If you want, I can also give you:
-
-🔥 More professional GitHub-ready version
-
-📌 LinkedIn caption for posting
-
-⭐ Small Java code for this game
